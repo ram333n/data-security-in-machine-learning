@@ -208,3 +208,5 @@ __marimo__/
 
 imagenet-10-dataset/
 lightning_logs/
+
+*/dataset/*
